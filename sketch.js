@@ -51,7 +51,7 @@ rightSide.show();
 Engine.update(engine);
 keyPressed();
 
-//drawSprites();
+drawSprites();
 
 
 }
